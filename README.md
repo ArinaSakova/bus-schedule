@@ -4,5 +4,5 @@
 
 ## Команда авторов
 
-- [Андрей Фёдоров](github.com/Affid)
-- [Михаил Вальков](github.com/kiltonik)
+- [Андрей Фёдоров](https://github.com/Affid)
+- [Михаил Вальков](https://github.com/kiltonik)
