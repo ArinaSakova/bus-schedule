@@ -6,3 +6,5 @@
 
 - [Андрей Фёдоров](https://github.com/Affid)
 - [Михаил Вальков](https://github.com/kiltonik)
+- [Алёна Реброва ](https://github.com/Alena-Reb)
+- [Арина Сакова](https://github.com/ArinaSakova)
