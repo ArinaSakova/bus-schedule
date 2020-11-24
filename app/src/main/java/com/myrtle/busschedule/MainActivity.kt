@@ -16,5 +16,4 @@ class MainActivity : AppCompatActivity() {
 
     private fun addNavigation() = findViewById<BottomNavigationView>(R.id.bttm_bar)
         .setupWithNavController(findNavController(R.id.root))
-
 }
