@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BusSchedule</string>
+    <string name="bus">Автобусы</string>
+    <string name="selection">Подбор</string>
+    <string name="trains">Электрички</string>
+
+    <string-array name="train_stations">
+        <item>Одинцово</item>
+        <item>Рабочий поселок</item>
+        <item>Кунцево</item>
+        <item>Славянский бульвар</item>
+        <item>Фили</item>
+        <item>Беговая</item>
+    </string-array>
+
+</resources>
